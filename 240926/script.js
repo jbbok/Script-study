@@ -49,5 +49,3 @@ let result = total - 10000;
 console.log(result);
 
 total < 10000 ? alert(`돈 관리 잘했어요!`) : alert(`${result}원 초과했어요!`);
-
-// alert(`${a}이(가) ${b}보다 ${a > b ? "큽니다" : "작습니다"}`);
